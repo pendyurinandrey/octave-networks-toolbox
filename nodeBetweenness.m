@@ -41,4 +41,4 @@ for i=1:n
 end      % end of i=1:n
     
 % this last step is just additional normalization, and is arbitrary 
-betw=betw/(2*nchoosek(n,2));
+% betw=betw/(2*nchoosek(n,2));
